@@ -1,55 +1,65 @@
-# LG - Fresh vegetables, fruits, herbs
+# LG Greens - Fresh Organic Produce
 
-This repository contains the code for the website of LG, a company that offers fresh vegetables, fruits, and herbs. The code is written in HTML and includes the necessary stylesheets and scripts to create a responsive and visually appealing website.
+Welcome to LG Greens, your source for fresh and organic vegetables, fruits, and herbs. We are committed to providing you with locally sourced, natural, and flavorful products.
 
-## Files
+## Table of Contents
 
-- `index.html`: The main HTML file that represents the home page of the website.
-- `about-us.html`: HTML file that represents the About Us page.
-- `typography.html`: HTML file that represents the Shop page.
-- `account.html`: HTML file that represents the Account page.
-- `contact-us.html`: HTML file that represents the Contact Us page.
-- `css/`: Directory containing CSS files for styling the website.
-  - `bootstrap.css`: CSS file for the Bootstrap framework.
-  - `fonts.css`: CSS file for custom fonts used in the website.
-  - `style.css`: CSS file for custom styles specific to the website.
-- `js/`: Directory containing JavaScript files used in the website.
-  - `html5shiv.min.js`: JavaScript file for supporting HTML5 elements in older versions of Internet Explorer.
-- `images/`: Directory containing image files used in the website.
-  - `favicon.ico`: Icon file used as the website's favicon.
-  - `logo-default-196x47.png`: Logo image file.
-  - `ie8-panel/`: Directory containing images for Internet Explorer compatibility.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Trending Products](#trending-products)
+- [Our Approach](#our-approach)
+- [Meet Our Team](#meet-our-team)
+- [Contact Information](#contact-information)
+- [Newsletter Subscription](#newsletter-subscription)
+- [Footer](#footer)
 
-## Usage
+## Introduction
 
-To use the code, simply download the repository and open the HTML files in a web browser. The website can be navigated using the links in the navigation bar, which include Home, About Us, Shop, Account, and Contact Us.
+LG Greens is an organic farm located in Louis Trichardt, Limpopo. We take pride in delivering high-quality, premium produce that is both healthy and delicious.
 
-The website features a responsive design, ensuring it displays correctly on different devices and screen sizes. It includes a slideshow using the Swiper library, showcasing different images and captions. The website also includes a basket feature and a search functionality.
+## Features
 
-## Browser Compatibility
+- **Locally Sourced**: We prioritize natural and organic farming practices.
+- **Diverse Selection**: Explore a variety of crisp vegetables, juicy fruits, and fragrant herbs.
+- **Dedicated Team**: Our professionals ensure the freshness and quality of our produce.
 
-The code is designed to work with modern web browsers. However, the website includes a compatibility check for older versions of Internet Explorer (IE) using the HTML5shiv JavaScript file.
+## Trending Products
 
-For a better browsing experience and improved security, it is recommended to use an up-to-date web browser.
+Check out some of our trending products:
 
-## Contact
+- **Peppers**
+  - *Price*: R13.95
+  - *Old Price*: R19.95
+- **Corn**
+  - *Price*: R11.99
+- **Broccoli**
+  - *Price*: R13.99
+- **Strawberries**
+  - *Price*: R44.99
 
-If you have any questions or inquiries, feel free to contact us:
+## Our Approach
 
-- Phone: '''''''
-- Address: ''''''''
-- Email: info@louigreens.co
+At LG Greens, we combine traditional organic farming with innovative practices. Our products are healthy and safe.
 
-You can also follow us on social media:
+## Meet Our Team
 
-- Facebook: [Link](#)
-- Twitter: [Link](#)
-- Google+: [Link](#)
-- Instagram: [Link](#)
-- Pinterest: [Link](#)
+Meet the professionals behind LG Greens:
 
-We are always ready to provide you with fresh organic products for your home or office. Contact us to find out how we can help you.
+1. **Motheo Nkadimeng**
+   - *Role*: Founder
+2. **Murunzi Tharaga**
+   - *Role*: Garden Manager
+3. **Akonaho Makondelele**
+   - *Role*: Farmyard Coordinator
 
----
+## Contact Information
 
-*Note: The content provided in this README file is fictional and does not represent an actual company or website.*
+- **Email**: [info@louigreens.co](mailto:info@louigreens.co)
+
+## Newsletter Subscription
+
+Stay updated! Subscribe to our newsletter for the latest news and tips.
+
+## Footer
+
+Designed by [Occxlnce](https://www.occxlnce.netlify.app). &copy; Loui Greens. All rights reserved.
