@@ -2,6 +2,9 @@
 
 Welcome to LG Greens, your source for fresh and organic vegetables, fruits, and herbs. We are committed to providing you with locally sourced, natural, and flavorful products.
 
+live demo: 
+https://louigreens2.netlify.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
